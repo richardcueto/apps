@@ -2,6 +2,24 @@
 
 En este repositorio encontraras programas para los siguientes:
 ## 1.Programas PDF
+**Programas Windows**
+
+-Adobe Acrobat Pro
+
+-Nitro Pro 2024
+
+-Visual Studio Community
+
+-PDFgear
+
+**Programas Portables**
+
+-PDF XChaneEditor
+
+-Pdfarranger
+
+-SumatraPDF
+
 ## 2.Programas Open Source
 **Programas Windows**
 
