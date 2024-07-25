@@ -4,43 +4,69 @@ En este repositorio encontraras programas para los siguientes:
 ## 1.Programas PDF
 **Programas Windows**
 
--Adobe Acrobat Pro
+- Adobe Acrobat Pro
 
--Nitro Pro 2024
+- Nitro Pro 2024
 
--Visual Studio Community
+- Visual Studio Community
 
--PDFgear
+- PDFgear
 
 **Programas Portables**
 
--PDF XChaneEditor
+- PDF XChaneEditor
 
--Pdfarranger
+- Pdfarranger
 
--SumatraPDF
+- SumatraPDF
 
 ## 2.Programas Open Source
 **Programas Windows**
 
--Audacity
+- Audacity
 
--Bim Vision
+- Bim Vision
 
--Visual Studio Community
+- Visual Studio Community
 
 **Programas Portables**
 
--FreeCad
+- FreeCad
 
--Gimp
+- Gimp
 
--LibreCad
+- LibreCad
 
--LibreOffice
+- LibreOffice
 
--Notepad++
+- Notepad++
 
--OBS
+- OBS
 
 ## 3.Programas Ingenieriles
+### Programas Windows
+**Autodesk**
+
+- Autocad 2024
+  
+- VBA Enabler Autocad 2024
+  
+- Revit 2023
+
+**CSI**
+
+- Etabs y path V19.1.0
+  
+- Etabs V22.0
+  
+- Safe V22.0
+  
+- Sap 2000 V25.1.0
+
+**Otros**
+
+- SketchUp.Pro V22
+
+> Plugin de compatibilidad CSI-Autodesk
+
+1. CSiXRevit 2023
